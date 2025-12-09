@@ -11,7 +11,8 @@ We organize the templates by documentation type and topic. Key folders include:
 * `base/` for foundational scaffolding shared across templates
 * `api-overview/`, `api-quickstart/`, and `api-reference/` for API-specific examples
 * `explanation/`, `how-to/`, `tutorial/`, `quickstarts/`, and `reference/` for concept, task, and reference templates
-* Supporting guides such as `style-guide/`, `ia-guide/`, `logging/`, and documents like `templates-list.md`, `template-deliverables.md`, `template-roles-and-resources.md`, and `writing-tips.md`
+* Supporting guides such as `style-guide/`, `ia-guide/`, and `logging/`
+* Companion documents like `templates-list.md`, `template-deliverables.md`, `template-roles-and-resources.md`, and `writing-tips.md`
 
 
 ## Core documentation types
