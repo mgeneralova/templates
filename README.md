@@ -4,6 +4,15 @@ This repository contains best-practice templates to help build documentation for
 
 Here we provide tips for using these templates.
 
+## What's in this repo
+
+We organize the templates by documentation type and topic. Key folders include:
+
+* `base/` for foundational scaffolding shared across templates
+* `api-overview/`, `api-quickstart/`, and `api-reference/` for API-specific examples
+* `explanation/`, `how-to/`, `tutorial/`, `quickstarts/`, and `reference/` for concept, task, and reference templates
+* Supporting guides such as `style-guide/`, `ia-guide/`, `logging/`, and documents like `templates-list.md`, `template-deliverables.md`, `template-roles-and-resources.md`, and `writing-tips.md`
+
 
 ## Core documentation types
 
